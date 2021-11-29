@@ -1,3 +1,8 @@
+<script type="text/javascript" async
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
+config=TeX-MML-AM_CHTML"
+</script>
+
 # Analysis of Employee Job Satisfaction Survey
 
 *15th March, 2020*
@@ -143,7 +148,7 @@ $$Y_i=1.4031+0.1951X_{Salary}+0.1693X_{Health}+0.2745X_{Education}-0.1174X_{Gend
 
 ***Interaction Regression Analysis:***
 
-***Observation 1:**The adjusted R-square is around 21.58% is meaning the variation in job satisfaction is 21.58% due to the variation in the education, in the gender, and in the gender and education interaction.*
+***Observation 1:** The adjusted R-square is around 21.58% is meaning the variation in job satisfaction is 21.58% due to the variation in the education, in the gender, and in the gender and education interaction.*
 
 ***Observation 2:** Significant F is 0.0026 smaller than level of significance a = 0.05. so we conclude that at least one of the independent variables (the gender and education interaction, education opportunities and gender) affect job satisfaction.*
 
